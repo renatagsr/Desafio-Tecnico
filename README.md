@@ -1,6 +1,6 @@
 # Desafio Técnico
 
-<center><img src="https://img.freepik.com/fotos-gratis/apresentacao-de-negocios-em-uma-tela-de-laptop_53876-13516.jpg?size=626&ext=jpg" width=30%></center>
+<center><img src="https://img.freepik.com/fotos-gratis/apresentacao-de-negocios-em-uma-tela-de-laptop_53876-13516.jpg?size=626&ext=jpg" width=450px></center>
 
 Repositório referente a vaga de Analista de Dados da empresa Sigalei. A Sigalei é uma empresa cujo objetivo é construção de um novo posicionamento baseado na responsabilidade e no melhor preparo das organizações para antever e gerir situações de vulnerabilidade.
 
